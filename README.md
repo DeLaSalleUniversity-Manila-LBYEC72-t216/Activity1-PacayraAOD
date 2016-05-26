@@ -62,6 +62,32 @@ int main()
 
 int main()
 {
+	int age, year;
+	
+	printf("APPROXIMATE AGE");
+	printf("\n\nEnter the year of birth: ");
+	scanf("%d", &year);
+	
+	if(year>=0)
+	{
+		age=2016-year;
+		printf("\nAge = %d years old", age);
+	}
+	
+	printf("\n\n");
+	system("PAUSE");
+	return 0;
+}
+```
+
+![](AGE.PNG)
+
+```
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
 	float x, y;
 	
 	printf("VALUE of f(x)");
