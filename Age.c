@@ -15,5 +15,7 @@ int main()
 		printf("\n\nAge = %d years old", age);
 	}
 	
+	printf("\n\n");
+	system("PAUSE");
 	return 0;
 }
