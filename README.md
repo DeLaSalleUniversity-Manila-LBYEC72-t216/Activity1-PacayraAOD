@@ -80,7 +80,7 @@ int main()
 }
 ```
 
-![](AGE.PNG)
+![](Age.PNG)
 
 ```
 #include <stdio.h>
