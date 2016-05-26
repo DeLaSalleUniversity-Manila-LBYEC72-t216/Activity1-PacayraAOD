@@ -19,8 +19,8 @@ int main()
 	printf("\t\t\t");
 	for (a=1;a<28;a++)
 	printf("@");
-	printf("\n\n");
 	
+	printf("\n\n");
 	system("PAUSE");
 	return 0;
 }
